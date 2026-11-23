@@ -1,0 +1,3 @@
+formatName(Vento. Aureo)
+getGreeting(Morning)
+createGreeting(Vento, Aureo, Morning)
